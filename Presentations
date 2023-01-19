@@ -11,7 +11,7 @@ Lifecycle Models and Process
 1.	Kanban (Software Development)		
 2.	Crystal (Software Development)		
 3.	Team Software Process and Personal Software Process		
-4.	Build Automation				
+4.	Build Automation	- Hannah Taylor			
 
 Project Management and Professional Practice
 5.	Risk Management	- Adelaide Damrau			
@@ -29,14 +29,16 @@ Software Architectures and Tools
 15.	Ansible
 16.	Jenkins	
 17.	Splunk (for DevOps)	- Adelaide Damrau
-18.	Selenium
+18.	Selenium - Janine Day
 19.	AppDynamics		
 
 Development Paradigms and Testing
 20.	Test-Driven Development
 21.	Behavior Driven Development
-22.	Feature Driven Development
-23.	Dependency Injection
+
+22.	Feature Driven Development - Janine Day
+23.	Dependency Injection - Hannah Taylor
+
 
 AI in SE
 24. AI for code completion
