@@ -1,0 +1,10 @@
+object oriented development
+web development (HTML/CSS/Javascript)
+Entity Framework Development & .NET
+Model/View/Controller project architecture
+Razor Pages (web development)
+Azure/DevOps/GitHub
+database management/creation
+AWS services
+CI/CD pipelines
+
