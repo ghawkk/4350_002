@@ -1,0 +1,7 @@
+Skills:
+proficient in python, C#, Java
+experience with HTML, CSS, SQL
+experience in web frameworks like spring(java), flask(python), bootstrap(css), and asp.net(C#)
+good with git/github/gitlab
+familiar with CI/CD pipelines and microservices
+
