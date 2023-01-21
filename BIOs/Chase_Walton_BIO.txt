@@ -1,0 +1,4 @@
+Familiar with C, C#/.NET, Bash, Python, Java, SQL, ABAP, PHP, and JavaScript
+Experienced with web development. Best at backend stuff
+Comfortable with the .NET Framework including Entity Framework and user management
+Familiar with linux server configuration
