@@ -1,0 +1,11 @@
+Skills:
+Coding Languages: 
+			-C
+			-C++
+			-C#
+			-Java Script
+Web Based: HTML
+Certs: Sec+
+Database Management(SQL-Developer)
+Developing Cloud Management(Cloud Computing)
+Github
