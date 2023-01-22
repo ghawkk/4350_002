@@ -1,8 +1,0 @@
-Skills:
-Familiar coding with C#, C++, and Java
-Able to use Github and other development applications
-Experience working with HTML and CSS
-Experienced with working in a team 
-Experience working with databases in SQL
-
-
