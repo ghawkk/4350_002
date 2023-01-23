@@ -1,0 +1,27 @@
+Soft Skills:
+
+- Problem-Solving
+- Organization
+- Communication
+- Teamwork
+- Time management
+
+Technicial Skills:
+
+- C# - preferred
+- Website Design (HTML/CSS/JS)
+- GitHub/Git
+- AzureDevOps
+- Python - preferred
+- SQL
+- C
+- Java
+- Linux
+- .NET
+- Active Directory
+- PowerShell
+- SAP
+- Splunk
+- Cribl
+- MS Office
+- ServiceNow
