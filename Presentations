@@ -9,7 +9,7 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 Lifecycle Models and Process
 1.	Kanban (Software Development)		
-2.	Crystal (Software Development)		
+2.	Crystal (Software Development)Colby Kledis		
 3.	Team Software Process and Personal Software Process		
 4.	Build Automation	- Hannah Taylor, Alex Byars			
 
@@ -18,13 +18,13 @@ Project Management and Professional Practice
 6.	Software Complexity Metrics	Brandon Beaudry, Austin Hamilton
 7.	Formal Methods				
 8.	Cleanroom Software Engineering - Payne Meade
-9.	Microsoft Project - Alec Ratner
+9.	Microsoft Project - Alec Ratner, Colby Kledis
 10.	Software Engineering Licensing - Josiah Truelove		
 
 Software Architectures and Tools
 11.	Service-Oriented Architecture	- Liam Whitelaw		
 12.	Infrastructure as a Service: Daniel Dotson
-13.	Platform as a Service - Payne Meade				
+13.	Platform as a Service - Payne Meade, Ethan Morgan			
 14.	Docker - Alec Ratner, Raekwon Adams-Rodgers
 15.	Ansible
 16.	Jenkins: Daniel Dotson
@@ -34,13 +34,13 @@ Software Architectures and Tools
 
 Development Paradigms and Testing
 20.	Test-Driven Development - Raekwon Adams-Rodgers
-21.	Behavior Driven Development - Josiah Truelove
+21.	Behavior Driven Development - Josiah Truelove, Logan Wilson
 
 22.	Feature Driven Development - Janine Day
 23.	Dependency Injection - Hannah Taylor; Liam Whitelaw
 
 
 AI in SE
-24. AI for code completion - Austin Hamilton
+24. AI for code completion - Austin Hamilton, Ethan Morgan
 25. AI for code creation (where the AI writes all the code) Brandon Beaudry, Alex Byars
-26. AI for code analysis
+26. AI for code analysis - Logan Wilson
