@@ -8,39 +8,39 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)		
-2.	Crystal (Software Development)		
-3.	Team Software Process and Personal Software Process		
+1.	Kanban (Software Development)		- John Milhorn, Daniel Dotson
+2.	Crystal (Software Development)Colby Kledis: https://www.youtube.com/watch?v=Rx-_L567HSY , Victoria Dixon
+3.	Team Software Process and Personal Software Process		- Brendan Jones
 4.	Build Automation	- Hannah Taylor, Alex Byars			
 
 Project Management and Professional Practice
-5.	Risk Management	- Adelaide Damrau	& Janine Day (pair)		
-6.	Software Complexity Metrics	Brandon Beaudry, Austin Hamilton
-7.	Formal Methods				
+5.	Risk Management	- Adelaide Damrau	& Janine Day (pair), Garred Hawkins
+6.	Software Complexity Metrics	Brandon Beaudry, Austin Hamilton : https://youtu.be/WeGESTV84sc
+7.	Formal Methods - Stephen Maurer, Brendan Jones
 8.	Cleanroom Software Engineering - Payne Meade
-9.	Microsoft Project - Alec Ratner
-10.	Software Engineering Licensing - Josiah Truelove		
+9.	Microsoft Project - Alec Ratner: https://youtu.be/sDJfvfmKPJ4, Colby Kledis
+10.	Software Engineering Licensing - Josiah Truelove, Reagan Mullins	
 
 Software Architectures and Tools
-11.	Service-Oriented Architecture	- Liam Whitelaw		
-12.	Infrastructure as a Service: Daniel Dotson
-13.	Platform as a Service - Payne Meade				
+11.	Service-Oriented Architecture	- Liam Whitelaw, Stephen Maurer	
+12.	Infrastructure as a Service: Daniel Dotson: https://youtu.be/7SCobvWnEo0 , John Milhorn
+13.	Platform as a Service - Payne Meade, Ethan Morgan			
 14.	Docker - Alec Ratner, Raekwon Adams-Rodgers
-15.	Ansible
-16.	Jenkins: Daniel Dotson
+15.	Ansible - Elliott Kaferle. Reagan Mullins
+16.	Jenkins: Chase Walton, Stephen Maurer
 17.	Splunk (for DevOps)	- Adelaide Damrau
-18.	Selenium
-19.	AppDynamics		
+18.	Selenium - Elliott Kaferle, Trevor Taylor
+19.	AppDynamics	- Victoria Dixon
 
 Development Paradigms and Testing
-20.	Test-Driven Development - Raekwon Adams-Rodgers
-21.	Behavior Driven Development - Josiah Truelove
+20.	Test-Driven Development - Raekwon Adams-Rodgers, Chase Walton
+21.	Behavior Driven Development - Josiah Truelove: https://www.youtube.com/watch?v=QWkZ7euc8hc Logan Wilson
 
 22.	Feature Driven Development - Janine Day
 23.	Dependency Injection - Hannah Taylor; Liam Whitelaw
 
 
 AI in SE
-24. AI for code completion - Austin Hamilton
-25. AI for code creation (where the AI writes all the code) Brandon Beaudry, Alex Byars
-26. AI for code analysis
+24. AI for code completion - Austin Hamilton, Ethan Morgan: https://youtu.be/6DmhmZqA7b0
+25. AI for code creation (where the AI writes all the code) Brandon Beaudry: https://www.youtube.com/watch?v=gg9sGFtAtbU, Alex Byars
+26. AI for code analysis - Logan Wilson, Garred Hawkins
